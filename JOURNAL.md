@@ -23,9 +23,9 @@ I also shared screenshots of my schematic on the Hack Club Slack to get feedback
 Today, I converted my schematic into a PCB layout and started adjusting the traces. I ran DRC (Design Rule Check) and found 8 errors. It took a long time to debug and fix each issue, but eventually, I brought the error count to zero.  
 After that, I began designing the 3D case for the project, carefully aligning all component placements and checking for any last-minute improvements before finalizing everything.  
 I worked for about **15 hours** today to make sure the PCB and case design are ready for building as soon as possible.
-![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(28).jpeg?raw=true)
-![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(29).jpeg?raw=true)
-![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(30).jpeg?raw=true)
-![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(31).jpeg?raw=true)
-![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(32).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(1).jpeg?raw=true)
+![]()
+![]()
+![]()
+![]()
 
