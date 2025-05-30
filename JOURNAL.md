@@ -30,5 +30,6 @@ After that, I began designing the 3D case for the project, carefully aligning al
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(6).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(7).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(8).jpeg?raw=true) 
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%202.11.49%20PM.jpeg?raw=true)
 I worked for about **15 hours** today to make sure the PCB and case design are ready for building as soon as possible.
 
