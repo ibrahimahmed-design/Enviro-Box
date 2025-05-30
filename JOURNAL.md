@@ -14,8 +14,9 @@ I worked for around **13 hours** on idea validation and cost optimization to mak
 ## 📅 Wednesday, 28/5/2025
 
 Since my experience with schematic and PCB design was average, I took some time to watch tutorials and improve my skills. Then, I started designing the schematic. Choosing the right components and wiring everything correctly was really challenging and took a lot of effort.  
-I also shared screenshots of my schematic on the Hack Club Slack to get feedback and discuss potential improvements. I spent around **12 hours** today designing and iterating on the schematic.
+I also shared screenshots of my schematic on the Hack Club Slack to get feedback and discuss potential improvements.
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM.jpeg?raw=true) 
+ I spent around **12 hours** today designing and iterating on the schematic. 
 ---
 
 ## 📅 Thursday, 29/5/2025
@@ -24,10 +25,10 @@ Today, I converted my schematic into a PCB layout and started adjusting the trac
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(1).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(2).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(3).jpeg?raw=true)
-After that, I began designing the 3D case for the project, carefully aligning all component placements and checking for any last-minute improvements before finalizing everything.  
+After that, I began designing the 3D case for the project, carefully aligning all component placements and checking for any last-minute improvements before finalizing everything. 
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(5).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(6).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(7).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(8).jpeg?raw=true) 
 I worked for about **15 hours** today to make sure the PCB and case design are ready for building as soon as possible.
-![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(1).jpeg?raw=true)
-![]()
-![]()
-![]()
-![]()
+
