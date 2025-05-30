@@ -67,10 +67,8 @@ Buzzer emits different tones based on the detected pollutant (CO, CO₂, or PM2.
 
 | Week | Tasks |
 |------|-------|
-| 1 | Order components, test main sensors |
-| 2 | Connect sensors to ESP32, display & alert testing |
-| 3 | Integrate battery + solar, assemble in enclosure |
-| 4 | Optimize code, run performance tests, publish documentation |
+| 1 | Order components, test main sensors +  Connect sensors to ESP32, display & alert testing |
+| 2 | Integrate battery + solar, assemble in enclosure + Optimize code, run performance tests, publish documentation |
 
 ## 🌍 Community Impact
 
