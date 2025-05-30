@@ -24,7 +24,7 @@ Today, I converted my schematic into a PCB layout and started adjusting the trac
 After that, I began designing the 3D case for the project, carefully aligning all component placements and checking for any last-minute improvements before finalizing everything.  
 I worked for about **15 hours** today to make sure the PCB and case design are ready for building as soon as possible.
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(1).jpeg?raw=true)
-![]()
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(2).jpeg?raw=true)
 ![]()
 ![]()
 ![]()
