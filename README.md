@@ -84,7 +84,7 @@ This project is open source under the MIT License.
 
 ## 📸 Media (coming soon)
 
-- PCB layout and wiring diagram
+-schematic,PCB layout and wiring diagram
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM.jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(4).jpeg?raw=true)
 - Onshape design of the enclosure
