@@ -9,7 +9,7 @@ created_at: "2025-05-28"
 I spent the whole day researching and brainstorming around the idea of my project. I explored its advantages, how I could improve it, what features I could add, and what drawbacks I might face — along with ways to reduce or completely avoid them. I also looked into the best design approaches and searched for the most affordable component prices to stay within budget and use the grant as responsibly as possible.  
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(9).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(10).jpeg?raw=true)
-I worked for around **13 hours** on idea validation and cost optimization to make sure I can build the best version of the project with the least possible cost.
+I worked for around **8 hours** on idea validation and cost optimization to make sure I can build the best version of the project with the least possible cost.
 
 ---
 
@@ -18,7 +18,7 @@ I worked for around **13 hours** on idea validation and cost optimization to mak
 Since my experience with schematic and PCB design was average, I took some time to watch tutorials and improve my skills. Then, I started designing the schematic. Choosing the right components and wiring everything correctly was really challenging and took a lot of effort.  
 I also shared screenshots of my schematic on the Hack Club Slack to get feedback and discuss potential improvements.
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM.jpeg?raw=true) 
- I spent around **12 hours** today designing and iterating on the schematic. 
+ I spent around **9 hours** today designing and iterating on the schematic. 
 ---
 
 ## 📅 Thursday, 29/5/2025
