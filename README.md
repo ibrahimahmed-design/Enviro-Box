@@ -88,9 +88,11 @@ This project is open source under the MIT License.
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/raw/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM.jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(4).jpeg?raw=true)
 - Onshape design of the enclosure
-
-
-
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(5).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(6).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(7).jpeg?raw=true)
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(8).jpeg?raw=true) 
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%202.11.49%20PM.jpeg?raw=true)
 
 ## 📔 Progress Journal
 
