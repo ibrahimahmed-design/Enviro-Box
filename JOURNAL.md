@@ -23,7 +23,9 @@ I also shared screenshots of my schematic on the Hack Club Slack to get feedback
 
 ## 📅 Thursday, 29/5/2025
 
-Today, I converted my schematic into a PCB layout and started adjusting the traces. I ran DRC (Design Rule Check) and found 8 errors. It took a long time to debug and fix each issue, but eventually, I brought the error count to zero.  
+Today, I converted my schematic into a PCB layout and started adjusting the traces.
+![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(4).jpeg?raw=true)
+ I ran DRC (Design Rule Check) and found 8 errors. It took a long time to debug and fix each issue, but eventually, I brought the error count to zero.  
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(1).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(2).jpeg?raw=true)
 ![](https://github.com/ibrahimahmed-design/Enviro-Box/blob/main/images/WhatsApp%20Image%202025-05-30%20at%2010.52.49%20AM%20(3).jpeg?raw=true)
