@@ -27,7 +27,7 @@ EnviroBox offers:
 
 | Name                           | Function                                   | Estimated Price (USD)     |
 | ------------------------------ | ------------------------------------------ | ------------------------- |
-| ESP32-S3-DEVKITC               | Main microcontroller for logic and control | 33                        |
+| ESP32-S3-DEVKITC               | Main microcontroller for logic and control | 39                        |
 | USB-C Connector                | Power input                                | 26                        |
 | SCD40-D-R2                     | CO₂                                        | 29                        |
 | ZPH02                          | PM2.5 air quality sensor                   | 36                        |
@@ -37,7 +37,7 @@ EnviroBox offers:
 | RGB LED (8028)                 | Visual status indicator                    | 6                        |
 | W25Q64 (SPI Flash)             | Data logging / storage                     | 32                        |
 | Buzzer 12x9mm                  | Audible alert / notification               | 4                        |
-| 220Ω Resistors ×3              | Current limiting for LEDs/Buzzer           | 12                        | 
+| 220Ω Resistors ×3              | Current limiting for LEDs/Buzzer           | 6                        | 
 | PCB                            | Custom circuit board                       | 15              |
 | 3D Printed Case                | Enclosure for protection                   | 12 (material cost)        |
 | Li-ion Battery                 | Portable power supply                      | 27                        |
