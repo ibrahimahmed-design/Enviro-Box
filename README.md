@@ -27,23 +27,23 @@ EnviroBox offers:
 
 | Name                           | Function                                   | Estimated Price (USD)     |
 | ------------------------------ | ------------------------------------------ | ------------------------- |
-| ESP32-S3-DEVKITC               | Main microcontroller for logic and control | 39                        |
-| USB-C Connector                | Power input                                | 26                        |
-| SCD40-D-R2                     | CO₂                                        | 29                        |
-| ZPH02                          | PM2.5 air quality sensor                   | 36                        |
-| ZE07-CO                        | Carbon monoxide (CO) gas sensor            | 31                        |
-| BME280                         | Temperature, humidity, and pressure sensor | 34                        |
-| 1.3" OLED (7P)                 | Display environmental data                 | 23                        |
-| RGB LED (8028)                 | Visual status indicator                    | 6                        |
-| W25Q64 (SPI Flash)             | Data logging / storage                     | 32                        |
-| Buzzer 12x9mm                  | Audible alert / notification               | 4                        |
-| 220Ω Resistors ×3              | Current limiting for LEDs/Buzzer           | 6                        | 
+| ESP32-S3-DEVKITC               | Main microcontroller for logic and control | 32                        |
+| USB-C Connector                | Power input                                | 5                         |
+| SCD40-D-R2                     | CO₂                                        | 22                        |
+| ZPH02                          | PM2.5 air quality sensor                   | 23                        |
+| ZE07-CO                        | Carbon monoxide (CO) gas sensor            | 22                        |
+| BME280                         | Temperature, humidity, and pressure sensor | 26                        |
+| 1.3" OLED (7P)                 | Display environmental data                 | 21                        |
+| RGB LED (8028)                 | Visual status indicator                    | 1                        |
+| W25Q64 (SPI Flash)             | Data logging / storage                     | 22                        |
+| Buzzer 12x9mm                  | Audible alert / notification               | 1                        |
+| 220Ω Resistors ×3              | Current limiting for LEDs/Buzzer           | 1                        | 
 | PCB                            | Custom circuit board                       | 15              |
-| 3D Printed Case                | Enclosure for protection                   | 12 (material cost)        |
-| Li-ion Battery                 | Portable power supply                      | 27                        |
-| Misc. (Wires, headers, screws) | Assembly and connectivity                  | 10                        |
+| 3D Printed Case                | Enclosure for protection                   | 14 (material cost)        |
+| Li-ion Battery                 | Portable power supply                      | 20                        |
+| Misc. (Wires, headers, screws) | Assembly and connectivity                  | 5                         |
 
-###  **Total Cost: $330**
+###  **Total Cost: $230**
 
 ##  Features
 
